@@ -1,3 +1,4 @@
+// 곱하기. 틀리면 다시
 let numberOne = Math.ceil(Math.random() * 9);
 let numberTwo = Math.ceil(Math.random() * 9);
 let result = numberOne * numberTwo;
