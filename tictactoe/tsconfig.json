@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "strickNullChecks" : false,    
+      "lib": ["es2020", "dom"],
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "noImplicitReturns": true,
+    }
+  }
